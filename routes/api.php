@@ -1,5 +1,5 @@
 <?php
-use App\Http\Controller\PetitionController;
+use App\Http\Controllers\PetitionController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Models\Petition;
